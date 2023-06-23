@@ -3,7 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "27549a3b1abaea22e79a4272ac2158b2",
+  ".well-known/assetlinks.json": "9fd16d7c6995a4e445dcb155be6b89ed",
+"404.html": "96ff5c9f2d6be854f443fed106f5a2b5",
+"assets/AssetManifest.json": "27549a3b1abaea22e79a4272ac2158b2",
 "assets/assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
 "assets/FontManifest.json": "9f61900808f9a5b49f4925bfad4e8aa4",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
@@ -16,8 +18,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "711f271e9ec71a6087ba571559807c14",
-"/": "711f271e9ec71a6087ba571559807c14",
+"index.html": "604af72264cea1193d43f7e691f21826",
+"/": "604af72264cea1193d43f7e691f21826",
 "main.dart.js": "d3cee5db988c5647c8c1d10bf93089cf",
 "manifest.json": "ce2b9107c0c4d7891c9ce696a89ddf53",
 "version.json": "5e231e20f33a1302c8fb52cbc74d1cfa"
